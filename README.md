@@ -1,0 +1,2 @@
+# NetworkOperation
+In this app, I tried to make use of API the GitHub API for receiving details of the GitHub users by using third party library tools like okHTTP, Picasso and Gson. The Gson library is used to convert the java objects into JSON parsing, Picasso library is used to show the avatar URL in the main Activity of the user and okHTTP is used for making network calls to open the HTTP URL in the browser of the Android device.
